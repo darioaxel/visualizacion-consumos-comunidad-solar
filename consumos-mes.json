@@ -1,0 +1,167 @@
+[
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/17",
+        "Valle": "2,189",
+        "Llano": "6,748",
+        "Punta": "2,559",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/18",
+        "Valle": "2,854",
+        "Llano": "6,045000000000001",
+        "Punta": "7,640000000000001",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/19",
+        "Valle": "2,9509999999999996",
+        "Llano": "4,593",
+        "Punta": "1,234",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/20",
+        "Valle": "3,8499999999999996",
+        "Llano": "3,8189999999999995",
+        "Punta": "3,939",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/21",
+        "Valle": "13,361000000000002",
+        "Llano": "",
+        "Punta": "",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/22",
+        "Valle": "10,824000000000003",
+        "Llano": "",
+        "Punta": "",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/23",
+        "Valle": "2,857",
+        "Llano": "4,198",
+        "Punta": "1,9090000000000003",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/24",
+        "Valle": "4,149000000000001",
+        "Llano": "7,343999999999999",
+        "Punta": "6,130999999999999",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/25",
+        "Valle": "9,275000000000002",
+        "Llano": "",
+        "Punta": "",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/26",
+        "Valle": "1,03",
+        "Llano": "1,4709999999999999",
+        "Punta": "1,0230000000000001",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/27",
+        "Valle": "0,9639999999999999",
+        "Llano": "2,375",
+        "Punta": "2,0460000000000003",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/28",
+        "Valle": "10,270000000000001",
+        "Llano": "",
+        "Punta": "",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/29",
+        "Valle": "12,248",
+        "Llano": "",
+        "Punta": "",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/30",
+        "Valle": "2,323",
+        "Llano": "5,428",
+        "Punta": "3,222",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    },
+    {
+        "CUPS": "ES00XXXXXXXXXXXXFL0F",
+        "Fecha": "2024/12/31",
+        "Valle": "1,8569999999999998",
+        "Llano": "4,851999999999999",
+        "Punta": "1,889",
+        "Energia_vertida_kWh": "",
+        "Energia_generada_kWh": "",
+        "Energia_autoconsumida_kWh": "",
+        "Consumo_Anual": ""
+    }
+]
